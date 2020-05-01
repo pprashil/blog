@@ -1,0 +1,37 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sidey",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Simple and minimalistic jekyll blogging theme.",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2020/05/01/how-i-created-jekyll-blog",
+            "title": "How I Created Blog Using Jekyll",
+            "summary": "Step by Step Guide",
+            "content_text": "Step 1 (Initial Setup)      First we will complete basic setup        Navigate to https://jekyllrb.com/docs/ and follow the instructions        If everything work ok then you can access your blog at: http://localhost:4000  Step 2 (Change Theme)      In this step, we will change blog theme to Sidey (https://www.ronaldsvilcins.com/projects/sidey/)        Download Sidey Theme from here: https://github.com/ronv/sidey        Remove all the content from your site’s parent directory and replace with all the content from Sidey Theme’s master directory. REMEMBER to take the backup if required        Navigate to http://localhost:4000 and make sure you can access the blog and all pages/functionalities        To make changes to the posts, navigate to _posts directory and edit the content  ",
+            "content_html": "<h3 id=\"step-1-initial-setup\">Step 1 (Initial Setup)</h3><ul>  <li>    <p>First we will complete <strong>basic setup</strong></p>  </li>  <li>    <p>Navigate to https://jekyllrb.com/docs/ and follow the instructions</p>  </li>  <li>    <p>If everything work ok then you can access your blog at: http://localhost:4000</p>  </li></ul><h3 id=\"step-2-change-theme\">Step 2 (Change Theme)</h3><ul>  <li>    <p>In this step, we will <strong>change blog theme to Sidey</strong> (https://www.ronaldsvilcins.com/projects/sidey/)</p>  </li>  <li>    <p>Download Sidey Theme from here: https://github.com/ronv/sidey</p>  </li>  <li>    <p>Remove all the content from your site’s parent directory and replace with all the content from <strong>Sidey Theme’s</strong> master directory. <strong>REMEMBER</strong> to take the backup if required</p>  </li>  <li>    <p>Navigate to http://localhost:4000 and make sure you can access the blog and all pages/functionalities</p>  </li>  <li>    <p>To make changes to the posts, navigate to <strong>_posts</strong> directory and edit the content</p>  </li></ul>",
+            "url": "http://localhost:4000/2020/05/01/how-i-created-jekyll-blog",
+            
+            
+            
+            "tags": ["jekyll","blog"],
+            
+            "date_published": "2020-05-01T00:00:00+10:00",
+            "date_modified": "2020-05-01T00:00:00+10:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}

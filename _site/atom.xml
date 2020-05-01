@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sidey</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2020-05-01T14:42:10+10:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>How I Created Blog Using Jekyll</title>
+   <link href="http://localhost:4000/2020/05/01/how-i-created-jekyll-blog"/>
+   <updated>2020-05-01T00:00:00+10:00</updated>
+   <id>http://localhost:4000/2020/05/01/How-I-Created-Jekyll-Blog</id>
+   <content type="html">&lt;h3 id=&quot;step-1-initial-setup&quot;&gt;Step 1 (Initial Setup)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;First we will complete &lt;strong&gt;basic setup&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Navigate to https://jekyllrb.com/docs/ and follow the instructions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If everything work ok then you can access your blog at: 
+http://localhost:4000&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;step-2-change-theme&quot;&gt;Step 2 (Change Theme)&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;In this step, we will &lt;strong&gt;change blog theme to Sidey&lt;/strong&gt; (https://www.ronaldsvilcins.com/projects/sidey/)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Download Sidey Theme from here: https://github.com/ronv/sidey&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Remove all the content from your site’s parent directory and replace with all the content from &lt;strong&gt;Sidey Theme’s&lt;/strong&gt; master directory. &lt;strong&gt;REMEMBER&lt;/strong&gt; to take the backup if required&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Navigate to http://localhost:4000 and make sure you can access the blog and all pages/functionalities&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;To make changes to the posts, navigate to &lt;strong&gt;_posts&lt;/strong&gt; directory and edit the content&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
